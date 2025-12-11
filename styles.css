@@ -13,6 +13,12 @@ body {
   background-color: #1a1d1d;
   padding: 1rem;
 }
+.biopic {
+  width: 500px;
+}
+.Samples {
+  width: 500px;
+}
 
 /* ========== HEADINGS ========== */
 h1, h2, h3 {
